@@ -1,0 +1,51 @@
+﻿<APPLANG>
+  <CAM>
+    <DESCRIPTION>Имя Окна / Видео Устройство</DESCRIPTION>
+    <HEADER>КАМЕРА</HEADER>
+    <DISPLAYNAME>КАМЕРА</DISPLAYNAME>
+    <FULLSCREEN>НА ВЕСЬ ЭКРАН</FULLSCREEN>
+    <SAVESNAPSHOT>СОХРАНИТЬ СТОП-КАДР</SAVESNAPSHOT>
+    <CLOSE>ЗАКРЫТЬ</CLOSE>
+    <RECORD>ЗАПИСЬ</RECORD>
+    <FULLRESTORE>ВОССТАНОВИТЬ</FULLRESTORE>
+  </CAM>
+  <SETUP>
+    <HEADER>КАМЕРА</HEADER>
+    <ON>ВКЛ</ON>
+    <OFF>ВЫКЛ</OFF>
+    <SAVE>СОХРАНИТЬ</SAVE>
+    <CLOSE>ЗАКРЫТЬ</CLOSE>
+    <NONE>Не выбрано</NONE>
+    <RECORDING>ИДЁТ ЗАПИСЬ...</RECORDING>
+    <DISPLAYNAME>ИМЯ ОКНА</DISPLAYNAME>
+    <ANTENNA>АНТЕННА</ANTENNA>
+    <CABLE>КАБЕЛЬ</CABLE>
+    <VIDEODEVICE>ВИДЕО УСТРОЙСТВО</VIDEODEVICE>
+    <VIDEODEVICES>ВИДЕО УСТРОЙСТВА</VIDEODEVICES>
+    <AUDIODEVICE>АУДИО УСТРОЙСТВО</AUDIODEVICE>
+    <AUDIODEVICES>АУДИО УСТРОЙСТВА</AUDIODEVICES>
+    <VIDEOSOURCE>ВИДЕО ИСТОЧНИК</VIDEOSOURCE>
+    <VIDEOSOURCES>ВИДЕО ИСТОЧНИКИ</VIDEOSOURCES>
+    <AUDIOSOURCE>АУДИО ИСТОЧНИК</AUDIOSOURCE>
+    <AUDIOSOURCES>АУДИО ИСТОЧНИКИ</AUDIOSOURCES>
+    <TUNESOURCES>ИСТОЧНИКИ ПРИЁМА</TUNESOURCES>
+    <TUNESOURCE>ИСТОЧНИК ПРИЁМА</TUNESOURCE>
+    <FRAMERATE>ЧАСТОТА СМЕНЫ КАДРОВ</FRAMERATE>
+    <FRAMERATES>ЧАСТОТЫ СМЕНЫ КАДРОВ</FRAMERATES>
+    <SAVEPATH>ПУТЬ ДЛЯ СОХРАНЕНИЯ СТОП-КАДРОВ</SAVEPATH>
+    <FULLSCREEN>ПОЛНОЭКРАННЫЙ РЕЖИМ</FULLSCREEN>
+    <BUTTON1TEXT>ВВЕДИТЕ ИМЯ ОКНА</BUTTON1TEXT>
+    <BUTTON2TEXT>ВЫБЕРИТЕ ВИДЕО УСТРОЙСТВО</BUTTON2TEXT>
+    <BUTTON3TEXT>ВЫБИРИТЕ АУДИО УСТРОЙСТВО</BUTTON3TEXT>
+    <BUTTON4TEXT>ВЫБИРИТЕ ТВ ИСТОЧНИК</BUTTON4TEXT>
+    <BUTTON5TEXT>ВЫБИРИТЕ АУДИО ИСТОЧНИК</BUTTON5TEXT>
+    <BUTTON6TEXT>ВЫБИРИТЕ ЧАСТОТУ СМЕНЫ КАДРОВ</BUTTON6TEXT>
+    <BUTTON7TEXT>ВЫБИРИТЕ ИСТОЧНИК ПРИЁМА</BUTTON7TEXT>
+    <OVERWRITETEXT>СОХРНИТЬ ИЗМЕНЕНИЯ?</OVERWRITETEXT>
+    <LOCATIONSTEXT>ВЫБЕРИТЕ ПОЛОЖЕНИЕ</LOCATIONSTEXT>
+    <LOCATIONS>ПОЛОЖЕНИЯ</LOCATIONS>
+    <CAMDISPLAY>КАМЕРА DISPLAY</CAMDISPLAY>
+    <WIDESCREEN>ШИРОКОЭКРАННЫЙ</WIDESCREEN>
+    <FLIPSCREEN>ПОВОРОТ ЭКРАНА</FLIPSCREEN>
+  </SETUP>
+</APPLANG>

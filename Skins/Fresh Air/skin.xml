@@ -1,0 +1,20 @@
+<SKIN id="Clean" width="800" height="480" comment="Cam Plugin">
+  <IMAGES>
+    <IMAGE id="CamOff" path="cam_off.png" />
+    <IMAGE id="CamDown" path="cam_down.png" />
+  </IMAGES>
+  <ICONS>
+    <ICON id="BG" path="bg.png" />
+  </ICONS>
+  <SECTIONS>
+    <SECTION id="Cam"  effect="ToApp" bounds="0;80;800;308" fullbounds="0;7;800;473" secbounds="0;0;800;480" off="CamOff" down="CamDown">
+      <CONTROLS>
+        <CONTROL type="Button" id="Record" bounds="707;72;64;65" cmlaction="Centrafuse.Cam.Record" effect="" fontclass="Button20" text="AppLang.Web.Keyboard" tabindex="1" enabled="True" />
+        <CONTROL type="Button" id="Save" bounds="707;140;65;64" cmlaction="Centrafuse.Cam.Save" effect="" fontclass="Button20" text="AppLang.Web.Back" tabindex="2" enabled="True" />
+        <CONTROL type="Button" id="MinMax" bounds="707;4;64;64" cmlaction="Centrafuse.Cam.MinMax" effect="" fontclass="Button20" fontstyle="color:#000000;style:bold" text="AppLang.Web.Forward" tabindex="3" enabled="True" />
+        <CONTROL type="Button" id="Home" bounds="707;401;64;68" effect="" cmlaction="Centrafuse.Main.MainMenu" tabindex="0" enabled="true" />
+				<CONTROL type="PictureBox2" id="Container" bounds="26;2;677;305" cmlaction="Centrafuse.Cam.ToggleDevice" fullbounds="26;2;677;460" secbounds ="6;2;710;400" enabled="True" />
+			</CONTROLS>
+    </SECTION>
+  </SECTIONS>
+</SKIN>

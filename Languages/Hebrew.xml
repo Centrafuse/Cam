@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<APPLANG>
+	<CAM>
+		<DESCRIPTION>שם / מכשיר וידאו</DESCRIPTION>
+		<HEADER>מצלמה</HEADER>
+		<DISPLAYNAME>רוורס</DISPLAYNAME>
+		<FULLSCREEN>מסך מלא</FULLSCREEN>
+		<SAVESNAPSHOT>שמור תמונה</SAVESNAPSHOT>
+		<CLOSE>סגור</CLOSE>
+		<RECORD>הקלט</RECORD>
+		<FULLRESTORE>שחזר</FULLRESTORE>
+	</CAM>
+	<SETUP>
+		<HEADER>מצלמה</HEADER>
+		<ON>פועל</ON>
+		<OFF>כבוי</OFF>
+		<SAVE>שמור</SAVE>
+		<CLOSE>סגור</CLOSE>
+		<NONE>שום דבר</NONE>
+		<RECORDING>...מקליט</RECORDING>
+		<DISPLAYNAME>שם תצוגה</DISPLAYNAME>
+		<ANTENNA>אנטנה</ANTENNA>
+		<CABLE>כבל</CABLE>
+		<VIDEODEVICE>התקן וידאו</VIDEODEVICE>
+		<VIDEODEVICES>התקני וידאו</VIDEODEVICES>
+		<AUDIODEVICE>התקן שמע</AUDIODEVICE>
+		<AUDIODEVICES>התקני שמע</AUDIODEVICES>
+		<VIDEOSOURCE>מקור וידאו</VIDEOSOURCE>
+		<VIDEOSOURCES>מקורות וידאו</VIDEOSOURCES>
+		<AUDIOSOURCE>מקור שמע</AUDIOSOURCE>
+		<AUDIOSOURCES>מקורות שמע</AUDIOSOURCES>
+		<TUNESOURCES>מקורות כוונון</TUNESOURCES>
+		<TUNESOURCE>מקור כוונון</TUNESOURCE>
+		<FRAMERATE>קצב תמונות</FRAMERATE>
+		<FRAMERATES>קצבי תמונות</FRAMERATES>
+		<SAVEPATH>תיקיית שמירת תמונות</SAVEPATH>
+		<FULLSCREEN>התחל במסך מלא</FULLSCREEN>
+		<BUTTON1TEXT>הכנס שם תצוגה</BUTTON1TEXT>
+		<BUTTON2TEXT>בחר מכשיר וידאו</BUTTON2TEXT>
+		<BUTTON3TEXT>בחר התקן שמע</BUTTON3TEXT>
+		<BUTTON4TEXT>בחר מקור טלוויזיה</BUTTON4TEXT>
+		<BUTTON5TEXT>בחר מקור שמע</BUTTON5TEXT>
+		<BUTTON6TEXT>בחר קצב תמונה</BUTTON6TEXT>
+		<BUTTON7TEXT>בחר מקור כוונון</BUTTON7TEXT>
+		<OVERWRITETEXT>?כתוב על הגדרות קיימות</OVERWRITETEXT>
+		<LOCATIONSTEXT>בחר מיקום</LOCATIONSTEXT>
+		<LOCATIONS>מיקומים</LOCATIONS>
+		<CAMDISPLAY>צג מצלמה</CAMDISPLAY>
+		<WIDESCREEN>מסך רחב</WIDESCREEN>
+		<FLIPSCREEN>הפוך מסך</FLIPSCREEN>
+	</SETUP>
+</APPLANG>

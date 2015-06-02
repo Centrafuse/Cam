@@ -1,0 +1,51 @@
+<APPLANG>
+  <CAM>
+    <DESCRIPTION>Display Name / Video Device</DESCRIPTION>
+    <HEADER>КАМЕРА</HEADER>
+    <DISPLAYNAME>КАМЕРА</DISPLAYNAME>
+    <FULLSCREEN>НА ВЕСЬ ЕКРАН</FULLSCREEN>
+    <SAVESNAPSHOT>ЗБЕРЕГТИ СТОП-КАДР</SAVESNAPSHOT>
+    <CLOSE>ЗАКРИТИ</CLOSE>
+    <RECORD>ЗАПИС</RECORD>
+    <FULLRESTORE>ВІДНОВИТИ</FULLRESTORE>
+  </CAM>
+  <SETUP>
+    <HEADER>КАМЕРА</HEADER>
+    <ON>УВІМ</ON>
+    <OFF>ВИМ</OFF>
+    <SAVE>ЗБЕРЕГТИ</SAVE>
+    <CLOSE>ЗАКРИТИ</CLOSE>
+    <NONE>Не обрано</NONE>
+    <RECORDING>ЙДЕ ЗАПИС...</RECORDING>
+    <DISPLAYNAME>ІМ"""Я ВІКНА</DISPLAYNAME>
+    <ANTENNA>АНТЕНА</ANTENNA>
+    <CABLE>КАБЕЛЬ</CABLE>
+    <VIDEODEVICE>ВІДЕО ПРИСТРІЙ</VIDEODEVICE>
+    <VIDEODEVICES>ВІДЕО ПРИСТРОЇ</VIDEODEVICES>
+    <AUDIODEVICE>АУДІО ПРИСТРІЙ</AUDIODEVICE>
+    <AUDIODEVICES>АУДІО ПРИСТРОЇ</AUDIODEVICES>
+    <VIDEOSOURCE>ВІДЕО ДЖЕРЕЛО</VIDEOSOURCE>
+    <VIDEOSOURCES>ВІДЕО ДЖЕРЕЛА</VIDEOSOURCES>
+    <AUDIOSOURCE>АУДІО ДЖЕРЕЛО</AUDIOSOURCE>
+    <AUDIOSOURCES>АУДІО ДЖЕРЕЛА</AUDIOSOURCES>
+    <TUNESOURCES>ДЖЕРЕЛА ПРИЙОМУ</TUNESOURCES>
+    <TUNESOURCE>ДЖЕРЕЛО ПРИЙОМУ</TUNESOURCE>
+    <FRAMERATE>ЧАСТОТА ЗМІНИ КАДРІВ</FRAMERATE>
+    <FRAMERATES>ЧАСТОТИ ЗМІНИ КАДРІВ</FRAMERATES>
+    <SAVEPATH>ШЛЯХ ДЛЯ ЗБЕРЕЖЕННЯ СТОП-КАДРІВ</SAVEPATH>
+    <FULLSCREEN>ПОВНОЕКРАННИЙ РЕЖИМ</FULLSCREEN>
+    <BUTTON1TEXT>ВВЕДІТЬ ІМ"""Я ВІКНА</BUTTON1TEXT>
+    <BUTTON2TEXT>ОБЕРІТЬ ВІДЕО ПРИСТРІЙ</BUTTON2TEXT>
+    <BUTTON3TEXT>ОБЕРІТЬ АУДІО ПРИСТРІЙ</BUTTON3TEXT>
+    <BUTTON4TEXT>ОБЕРІТЬ ТВ ДЖЕРЕЛО</BUTTON4TEXT>
+    <BUTTON5TEXT>ОБЕРІТЬ АУДІО ДЖЕРЕЛО</BUTTON5TEXT>
+    <BUTTON6TEXT>ОБЕРІТЬ ЧАСТОТУ ЗМІНИ КАДРІВ</BUTTON6TEXT>
+    <BUTTON7TEXT>ОБЕРІТЬ ДЖЕРЕЛО ПРИЙОМУ</BUTTON7TEXT>
+    <OVERWRITETEXT>ЗБЕРЕГТИ ЗМІНИ?</OVERWRITETEXT>
+    <LOCATIONSTEXT>ОБЕРІТЬ ПОЛОЖЕННЯ</LOCATIONSTEXT>
+    <LOCATIONS>ПОЛОЖЕННЯ</LOCATIONS>
+    <CAMDISPLAY>КАМЕРА DISPLAY</CAMDISPLAY>
+    <WIDESCREEN>ШИРОКОЕКРАННИЙ</WIDESCREEN>
+    <FLIPSCREEN>ПОВОРОТ ЕКРАНУ</FLIPSCREEN>
+  </SETUP>
+</APPLANG>
